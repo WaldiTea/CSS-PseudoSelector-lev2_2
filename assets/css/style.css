@@ -53,7 +53,7 @@ button:hover {
   font-size: 32px;
 }
 
-button:focus {
+button:active {
   background: linear-gradient(160deg, #f4e649, #a07ecf);
   color: white;
 }
